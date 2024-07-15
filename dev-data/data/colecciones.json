@@ -1,0 +1,56 @@
+[
+    {
+        "nombre_prenda":"Poleron Lacoste",
+        "stock":10,
+        "talla":"L",
+        "valor":25000,
+        "estado":true
+    },
+    {
+        "nombre_prenda":"Poleron Ferrero ",
+        "stock":10,
+        "talla":"L",
+        "valor":23000,
+        "estado":true
+    },   
+    {
+        "nombre_prenda":"Poleron Sapato",
+        "stock":13,
+        "talla":"L",
+        "valor":21000,
+        "estado":true
+    },
+    {
+        "nombre_prenda":"Poleron Lechuga",
+        "stock":12,
+        "talla":"L",
+        "valor":32000,
+        "estado":true
+    },
+    {
+        "nombre_prenda":"Poleron Tomate ",
+        "stock":10,
+        "talla":"M",
+        "valor":92000,
+        "estado":true
+    },
+    {
+        "nombre_prenda":"Poleron Zanahoria",
+        "stock":10,
+        "talla":"M",
+        "valor":52000,
+        "estado":true
+    },
+    {
+        "nombre_prenda":"Poleron Chorete",
+        "stock":10,
+        "talla":"S",
+        "valor":12000,
+        "estado":true
+    }
+
+
+
+
+]
+
